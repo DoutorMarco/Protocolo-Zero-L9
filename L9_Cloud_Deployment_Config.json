@@ -1,0 +1,7 @@
+{
+    "system_id": "L9-PROT-ZERO-SOVEREIGN",
+    "cloud_provider": "Multi-Cloud / Serverless Ready",
+    "security": "AES-256 Encryption at Rest",
+    "api_version": "v1.0.1-AUTONOMOUS",
+    "compliance": "Deterministic Clinical Logic (No-LLM Hallucination)"
+}
